@@ -4,3 +4,5 @@ git clone https://github.com/233boy/v2ray -b master
 cd v2ray
 chmod +x install.sh
 ./install.sh local
+
+bash <(curl -s -L https://raw.githubusercontent.com/jigge2/v2ray/master/install.sh)
